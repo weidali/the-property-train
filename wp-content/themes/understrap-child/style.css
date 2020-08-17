@@ -1,0 +1,12 @@
+/*
+Theme Name: UnderStrap дочерняя тема
+Template: understrap
+
+Description: Дочерняя тема для темы UnderStrap
+Version: 1.0
+*/
+
+/* импортируем стили родительской темы */
+@import url("../understrap/style.css");
+
+/* Свои дополнительные стили */
